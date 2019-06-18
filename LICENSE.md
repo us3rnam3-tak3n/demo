@@ -1,0 +1,2 @@
+#LICENSE
+##Some stupid license.
